@@ -4,6 +4,11 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+## 📍 Social
+<div>
+<a href="https://instagram.com/eno30100"><img width="120" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"/></a>
+</div>
+
 ## About me
 
 I'm interested in cybersecurity and AI. Also, I hate Procrastination💀

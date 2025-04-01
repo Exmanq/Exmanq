@@ -9,7 +9,7 @@
 I'm interested in cybersecurity and AI. Also, I hate Procrastination💀
 
 ## 🙏 Visit my profile
-[Exmand docs](https://github.com/Exmanq) - Here I post helpful IT manuals. They can be used as references
+[Exmand docs](https://github.com/Exmanq?tab=repositories) - Here I post helpful IT manuals. They can be used as references
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
